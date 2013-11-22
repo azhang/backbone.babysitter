@@ -22,7 +22,7 @@
     "jashkenas/backbone": "*"
   },
   "scripts": [
-    "lib/amd/backbone.wreqr.js"
+    "lib/amd/backbone.babysitter.js"
   ],
   "version": "0.0.6"
 }
