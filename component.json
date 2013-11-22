@@ -1,0 +1,28 @@
+{
+  "name": "backbone.babysitter",
+  "repo": "aaronz8/backbone.babysitter",
+  "description": "Manage child views in a Backbone.View",
+  "homepage": "https://github.com/marionettejs/backbone.babysitter",
+  "keywords": [
+    "backbone",
+    "plugin",
+    "computed",
+    "field",
+    "model",
+    "client",
+    "browser"
+  ],
+  "author": "Derick Bailey <derickbailey@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronz8/backbone.babysitter.git"
+  },
+  "dependencies": {
+    "components/underscore": "*",
+    "jashkenas/backbone": "*"
+  },
+  "scripts": [
+    "lib/amd/backbone.wreqr.js"
+  ],
+  "version": "0.0.6"
+}
