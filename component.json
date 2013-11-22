@@ -24,5 +24,6 @@
   "scripts": [
     "lib/amd/backbone.babysitter.js"
   ],
+  "main": "lib/amd/backbone.babysitter.js",
   "version": "0.0.6"
 }
